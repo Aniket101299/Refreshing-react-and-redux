@@ -7,7 +7,7 @@ const Header = () => {
                 <h2>FakeShop</h2>
             </div>
         </div>
-    )
+    );
 };
 
 export default Header;
